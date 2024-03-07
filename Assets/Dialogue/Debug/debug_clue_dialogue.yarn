@@ -1,17 +1,15 @@
-﻿title: debug_clue
+﻿title: debug_clue_dialogue
 tags:
 ---
 
-<<declare $_inventory_item_debug_circle_ = false>>
-
 Hmm... Looks like a circle. 
 ...
-I have no fucking clue what this means.
+I have no clue what this means.
 
 -> Aren't you supposed to be a detective?
     Aren't you supposed to be coding or something?
     I'll pick it up anyway I guess.
-    <<set $_inventory_item_debug_circle_ = true>>
+    <<addItem debug_clue debug_clue>>
 -> It's a mystery.
 
 ===
