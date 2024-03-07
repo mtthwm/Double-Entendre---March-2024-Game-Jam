@@ -1,0 +1,14 @@
+﻿title: BeaGoode
+tags:
+---
+
+Hii! I'm Bea Goode. 
+I'm sick as a dog apparently.
+uuhh I don't really have the real dialogue yet
+
+Did you solve the case?
+    -> Yes!
+        <<startGuess BeaGoode>>
+    -> Not Yet.
+
+===

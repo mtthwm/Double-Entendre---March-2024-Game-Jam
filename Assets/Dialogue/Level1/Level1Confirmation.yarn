@@ -1,0 +1,11 @@
+﻿title: Level1Confirmation
+tags:
+---
+
+Are you sure this is the right order for clues? 
+
+-> I'm positive
+    <<checkGuess Confirmation>>
+-> Let me think...
+
+===
