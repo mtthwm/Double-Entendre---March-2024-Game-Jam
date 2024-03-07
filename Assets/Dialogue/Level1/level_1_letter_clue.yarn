@@ -4,43 +4,43 @@ tags:
 
 <<declare $neighbor = "NEIGHBOR">>
 
-// A letter? From...
+A letter? From...
 
-// <i>Reads the envelope</i>
+<i>Reads the envelope</i>
 
-// {$neighbor} it seems.
+{$neighbor} it seems.
 
-// Should I read it?
+Should I read it?
 
-//     -> Don't see why not. Let's see...
+    -> Don't see why not. Let's see...
 
-//         <i>Hi, dear neighbor</i>
+        <i>Hi, dear neighbor</i>
 
-//         <i>I'll be out of town for a few days, and I won't be back until the 16th.</i>
+        <i>I'll be out of town for a few days, and I won't be back until the 16th.</i>
 
-//         <i>Please leave a note at the door if anything comes up.</i>
+        <i>Please leave a note at the door if anything comes up.</i>
 
-//         <i>Your neighbor, {$neighbor}. Mar 10.</i>
+        <i>Your neighbor, {$neighbor}. Mar 10.</i>
 
-//         Today is the... 14th, I think.
+        Today is the... 14th, I think.
 
-//         And... What's this?
+        And... What's this?
 
-//         <i>P.S. I still haven't found my marbles. Please let me know if you see them!</i>
+        <i>P.S. I still haven't found my marbles. Please let me know if you see them!</i>
 
-//         Interesting...
+        Interesting...
 
-//         <<addItem Letter level_1_letter_clue>>
+        <<addItem Letter level_1_letter_clue>>
 
-//         <<selfDestruct Letter>>
+        <<selfDestruct Letter>>
 
-//         <<stop>>
+        <<stop>>
 
-//     -> Maybe not...
+    -> Maybe not...
 
-Neato! A letter!
-<<addItem Letter level_1_letter_clue>>
-<<selfDestruct Letter>>
+// Neato! A letter!
+// <<addItem Letter level_1_letter_clue>>
+// <<selfDestruct Letter>>
 
 
 ===

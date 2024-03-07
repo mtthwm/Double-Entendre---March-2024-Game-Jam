@@ -90,7 +90,6 @@ GameObject:
   - component: {fileID: 3672537178350477523}
   - component: {fileID: 2795072052958876265}
   - component: {fileID: 3425770456061730126}
-  - component: {fileID: 4401134878095596043}
   m_Layer: 5
   m_Name: Contents
   m_TagString: Untagged
@@ -215,18 +214,6 @@ MonoBehaviour:
   inventoryView: {fileID: 276663455882945714}
   mode: 0
   Item: 
---- !u!114 &4401134878095596043
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 325881026924741193}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c70f6c568d3bba649ab5898ae6fe5ed9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &841209977516049233
 GameObject:
   m_ObjectHideFlags: 0
@@ -240,7 +227,6 @@ GameObject:
   - component: {fileID: 2096875992457924721}
   - component: {fileID: 8030791509708068667}
   - component: {fileID: 1178750972233872865}
-  - component: {fileID: 7346352151191230801}
   m_Layer: 5
   m_Name: Contents
   m_TagString: Untagged
@@ -365,18 +351,6 @@ MonoBehaviour:
   inventoryView: {fileID: 276663455882945714}
   mode: 0
   Item: 
---- !u!114 &7346352151191230801
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841209977516049233}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c70f6c568d3bba649ab5898ae6fe5ed9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1037811235804796240
 GameObject:
   m_ObjectHideFlags: 0
@@ -544,7 +518,6 @@ GameObject:
   - component: {fileID: 3545225077576030190}
   - component: {fileID: 9171988995951484796}
   - component: {fileID: 3151090598736775178}
-  - component: {fileID: 7251300267859470843}
   m_Layer: 5
   m_Name: Contents
   m_TagString: Untagged
@@ -669,18 +642,6 @@ MonoBehaviour:
   inventoryView: {fileID: 276663457797752603}
   mode: 0
   Item: 
---- !u!114 &7251300267859470843
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1341042956595557666}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c70f6c568d3bba649ab5898ae6fe5ed9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1376627200750598825
 GameObject:
   m_ObjectHideFlags: 0
@@ -694,7 +655,6 @@ GameObject:
   - component: {fileID: 6679537161531150210}
   - component: {fileID: 3322702044655294955}
   - component: {fileID: 8432104357778059969}
-  - component: {fileID: 3488897496189379054}
   m_Layer: 5
   m_Name: Contents
   m_TagString: Untagged
@@ -819,18 +779,6 @@ MonoBehaviour:
   inventoryView: {fileID: 276663455882945714}
   mode: 0
   Item: 
---- !u!114 &3488897496189379054
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1376627200750598825}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c70f6c568d3bba649ab5898ae6fe5ed9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1391874105968066047
 GameObject:
   m_ObjectHideFlags: 0
@@ -1806,7 +1754,6 @@ GameObject:
   - component: {fileID: 6544073090142153766}
   - component: {fileID: 56138480194566316}
   - component: {fileID: 2956058423669940963}
-  - component: {fileID: 5608362249522534798}
   m_Layer: 5
   m_Name: Contents
   m_TagString: Untagged
@@ -1931,18 +1878,6 @@ MonoBehaviour:
   inventoryView: {fileID: 276663457797752603}
   mode: 0
   Item: 
---- !u!114 &5608362249522534798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4865165915377563140}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c70f6c568d3bba649ab5898ae6fe5ed9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &5571771519404572181
 GameObject:
   m_ObjectHideFlags: 0
