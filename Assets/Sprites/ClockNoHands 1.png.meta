@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 70.6
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,9 +68,9 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1370,10 +1370,10 @@ TextureImporter:
       ClockNoHands 1_32: 42052141
       ClockNoHands 1_58: 762891450
       ClockNoHands 1_39: -1161812045
+      ClockNoHands 1_36: 1454698395
       ClockNoHands 1_40: -1793574520
       ClockNoHands 1_48: 318983369
       ClockNoHands 1_21: 370136757
-      ClockNoHands 1_7: -1426234882
       ClockNoHands 1_14: -1444344816
       ClockNoHands 1_46: -1949226630
       ClockNoHands 1_12: -27685123
@@ -1391,8 +1391,8 @@ TextureImporter:
       ClockNoHands 1_27: 1388499683
       ClockNoHands 1_33: 1157320127
       ClockNoHands 1_41: -555865410
-      ClockNoHands 1_20: -451689010
       ClockNoHands 1_35: -712213394
+      ClockNoHands 1_44: -832715236
       ClockNoHands 1_50: -766957430
       ClockNoHands 1_4: -255335367
       ClockNoHands 1_30: 1326401563
@@ -1400,7 +1400,7 @@ TextureImporter:
       ClockNoHands 1_26: 1913957455
       ClockNoHands 1_13: 1720844539
       ClockNoHands 1_54: 1612210473
-      ClockNoHands 1_44: -832715236
+      ClockNoHands 1_20: -451689010
       ClockNoHands 1_38: 1207985094
       ClockNoHands 1_37: 845009751
       ClockNoHands 1_22: 1531512993
@@ -1418,13 +1418,13 @@ TextureImporter:
       ClockNoHands 1_1: 705880216
       ClockNoHands 1_18: 1707177206
       ClockNoHands 1_55: 819830138
+      ClockNoHands 1_11: 165426295
       ClockNoHands 1_0: 372275393
       ClockNoHands 1_56: 2023898044
       ClockNoHands 1_42: -1178382743
-      ClockNoHands 1_11: 165426295
-      ClockNoHands 1_6: 1894447782
-      ClockNoHands 1_36: 1454698395
       ClockNoHands 1_52: -1999204562
+      ClockNoHands 1_6: 1894447782
+      ClockNoHands 1_7: -1426234882
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
