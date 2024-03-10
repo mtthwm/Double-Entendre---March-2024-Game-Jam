@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using Yarn.Unity;
 
 public class YarnBridge : MonoBehaviour
@@ -25,9 +24,15 @@ public class YarnBridge : MonoBehaviour
         LevelManager.Instance.SwitchView();
     }
 
-    [YarnCommand("checkGuess")]
-    public void CheckGuess ()
+    [YarnFunction("checkGuess")]
+    public static bool CheckGuess ()
     {
-        Debug.Log(LevelManager.Instance.Check());
+        return LevelManager.Instance.Check();
+    }
+
+    [YarnCommand("loadScene")]
+    public static void LoadScene (string name)
+    {
+        SceneManager.LoadScene(name);
     }
 }

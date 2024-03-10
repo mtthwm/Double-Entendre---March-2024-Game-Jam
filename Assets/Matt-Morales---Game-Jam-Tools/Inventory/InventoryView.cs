@@ -56,8 +56,10 @@ public class InventoryView : MonoBehaviour
             InventorySlot slot = slots[i];
             Image img = slot.handle.GetComponent<Image>();
             img.enabled = false;
-            InventoryButton btn = slot.handle.GetComponent<InventoryButton>();
-            btn.Item = "";
+            InventoryButton invBtn = slot.handle.GetComponent<InventoryButton>();
+            invBtn.Item = "";
+            Button btn = slot.handle.GetComponent<Button>();
+            btn.enabled = false;
 
             if (i < items.Length)
             {
@@ -69,7 +71,8 @@ public class InventoryView : MonoBehaviour
                     slot.handle.transform.localScale = Vector3.one;
                     img.sprite = item.icon;
                     img.enabled = true;
-                    btn.Item = itemName;
+                    invBtn.Item = itemName;
+                    btn.enabled = true;
                 }
                 else
                 {

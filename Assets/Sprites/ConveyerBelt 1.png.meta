@@ -1,0 +1,2599 @@
+fileFormatVersion: 2
+guid: c1e09ec91bc00864cb5d4718ba0362f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ConveyerBelt 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e7a15a92ce678469f9184ba2a7d356
+      internalID: -361760418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfc7b2d982e7be499a6d7548cf5646d
+      internalID: 360802981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66caf3fa9016b94479a777fafecaca80
+      internalID: -1739123181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_3
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b711c1c6ec4443b45bb751dbdb7d6
+      internalID: -2051573804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc0be76b6f57448af84f1afed327fe
+      internalID: 1506843805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f51b09dde9d6041af6e550699303c4
+      internalID: -1649576452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ae6de6738f8eb43b49350922c28fda
+      internalID: -201734444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92def6554ee62c408efedb7d3c3a4de
+      internalID: -2145409247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81548504542874a94d6644b9c99619
+      internalID: -63034613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f52345fc60fd1747bfd2ea30f1667b0
+      internalID: -1753608570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8876590b2aa57b549bca07d6fe8d62d6
+      internalID: 1597514576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bab5c5671a2114ab3d8fe87fd872a6
+      internalID: -1013570755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903cc08160ac4941b3818ff515d1dcb
+      internalID: -620525573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e296e50d44db25c42a1a5a88067633a5
+      internalID: -747691064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_14
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6bada63336c7243857e6330288d29a
+      internalID: -319570810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_15
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46b8de67bb4da48b3810c36ecd8f9a
+      internalID: -910203450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9109fc75c3344abf61cce1fb2889e
+      internalID: -1771217211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4dfd77c6d6b44085208013dfdde7b
+      internalID: 1730788938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_18
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144337f99ffcc7c418e7c70c0e535080
+      internalID: -1147240575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c3ff0599255ce44ace36bc15488337
+      internalID: -2066270484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1472d33895f555e49aef40a8393d41a4
+      internalID: -1631357094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364d253671f07a47bc545535a5dc77d
+      internalID: -88357540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886a962dd59334b45bcececed39bb803
+      internalID: 867310089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_23
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201cdf4086fd67e48abfabd8c3c52469
+      internalID: 729752518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e8d0f4be7d85a499668aa9cfedf339
+      internalID: 102482963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1050
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd556e9317ce714a85d88c3f67374e7
+      internalID: -493565339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1050
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebe3b206e9647841894351ed3b6b267
+      internalID: 294888769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_27
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1050
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c61a21b2761e74186af5fe56c704ee
+      internalID: -1472694854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69f564d0243b84faf5df08839e23d2
+      internalID: -2147124593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1000
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54a3d04f1aaf1429ec4a6f794fab12
+      internalID: 163453258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_30
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1000
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd167adb2a6f4478db2d285ca927ef
+      internalID: 1093375444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_31
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1000
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e6d8706f632a449e2cd3a792b1054
+      internalID: -181633670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86671966007cc4c96754375d341a39
+      internalID: 1409604027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 950
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c07d194bda9a4fa7364de4d0eea5f
+      internalID: 131476427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 950
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d765c729c2291047a35b8c4d099842a
+      internalID: 1274783917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_35
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 950
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171a6f21eed24b4aaf9463582e4583a
+      internalID: 359963514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469a391354be874c850446bfa60a1f6
+      internalID: -1270596040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 900
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbedbb4f1884ae469d22f69132bb6b9
+      internalID: -1510688338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 900
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267642aac7db8124787b397e30940656
+      internalID: 2031991606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_39
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 900
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d42f7d435b8c2341885b62234f7adaa
+      internalID: 1659334160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b4238ea8a313d43b67b0af6828d3c9
+      internalID: 2101597770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_41
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 850
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9813ed9ea8bc9604f9ed8a426dae94c7
+      internalID: 932183594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_42
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 850
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a19e6576189914b82194495a8a3e06
+      internalID: 1642456402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_43
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 850
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d489ac769a19419b85920f534921e
+      internalID: -1153817855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d689f395e22fdcc4e816e32b4f874a26
+      internalID: -1588273915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 800
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce9c1c8e33913409b048e051c9e493
+      internalID: -102233410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 800
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858fc5ae4b6d7e4282a58daeb1cef9f
+      internalID: -507673765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_47
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 800
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55904b4376d722469c5e9ba338945c1
+      internalID: -1822393903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a06d162af153429b8b69dc3974254
+      internalID: -322891865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_49
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 750
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15366aa568835bd4994f7850a0e98496
+      internalID: -1331681404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_50
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 750
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6986c777bec1646bf363debbdd4d51
+      internalID: -1643570543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_51
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 750
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dcd831c08161846bf635ebfc639980
+      internalID: 1073886871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c5352792249346816a0c4d85f2752
+      internalID: 202345023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_53
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 700
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362894dfa41fb2e43b0469ed25d93472
+      internalID: -975639616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_54
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 700
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5f7ce66518e944cbf8056b79cc5867
+      internalID: 1788396865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_55
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 700
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8297889760114b902835bdaee2206
+      internalID: -702018407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b08f0754c935746b09b8385ff4572c
+      internalID: -1768895143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_57
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 650
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbaf3d54385a4d4a9ea7ea032c11daa
+      internalID: -1974646509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 650
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2ad0f651703694488229eec90c6e74
+      internalID: -1904231346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_59
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 650
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbea3b8b428fd774eb5abaabbcca2651
+      internalID: -47388954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64ee1a6dcc5984c9671cfd2396ef69
+      internalID: -1887587999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_61
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 600
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da073410714bef4da6f3f3076f2e7c3
+      internalID: -1230427820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_62
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 600
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f624f14610efc2489f32b8c4b1cc094
+      internalID: -883157150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_63
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 600
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390601321618e614fba77d784af7e098
+      internalID: 1443525769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0949f921d8e04eaf89c69e7e2cb10
+      internalID: 1355553972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 550
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44ba1f6a0a5964d92e78c4759d3205
+      internalID: -512693286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_66
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 550
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655733dac688501488efddc06418239e
+      internalID: -1804931748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_67
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 550
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb963a849e7f484d894f9e53935ed08
+      internalID: -893527992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e03b4f5b3ebc4f9e4ee5b7167da77
+      internalID: -1112220525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_69
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 500
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eace2d092a90b94f9fe993af9b8f65c
+      internalID: -1956320214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 500
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f5258526951a4aa46947a525d0d9a
+      internalID: -143303823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_71
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 500
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a955d2e0abc96864eb44291a73b1ac94
+      internalID: -822271415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc7d8e67e22c1f4f9db879f8de88179
+      internalID: 139717796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_73
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 450
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2285e697c89df234ab7bee2c43bfffa1
+      internalID: 111257088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_74
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 450
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58da26bbc9de6842a5b3fdc8d6398d6
+      internalID: -122259683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_75
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 450
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a65ddcb0d197439c073ba122f435d
+      internalID: 802972325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d24408693a9d04cb88a0f39a575a1e
+      internalID: 380571377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_77
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 400
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022675997b3f1f4dac4c4f4e81595bd
+      internalID: -1222761413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_78
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 400
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6216fb4262e2647aec0835a22fcfac
+      internalID: -905409941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_79
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 400
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1119294c71ac5642a5ac6a1f83619a2
+      internalID: 1418875522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b5f21cf8761646a0774a12b8a4829
+      internalID: -59067360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_81
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dea270baef2d6468b7de8c59575ed5
+      internalID: -427345514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_82
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c7823af0a2d5e4f959aa8fc01f740d
+      internalID: -618078304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_83
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 350
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d78138ce2bdf4287a1f1620466543
+      internalID: 2108997643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd9e7e8a633b049a9e9fe80ba47aba
+      internalID: 293091471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_85
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3339b758c00a0854b8d25d2120b8c368
+      internalID: 1624686406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_86
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fff5604d38ad4428c4381d51939d88
+      internalID: 2055272332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_87
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 300
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c635714420a434398327ec133ee0b7
+      internalID: -1597454728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2965bde63f739e54cb64131ebd71bb8f
+      internalID: -40976386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_89
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d79740368a3c14c8b428dee3e6a4b8
+      internalID: -1383032760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_90
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4e261f847924a4cb43f5b7b515cdf6
+      internalID: -1680877087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_91
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 250
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a085133d14d849a73f89a780d1451
+      internalID: -1284111138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9592f695a1558c04d9baecfd2a7e52c2
+      internalID: 1569195668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_93
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4694a132799c040aa5d0a0f4e4c115
+      internalID: -196865131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_94
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816bd327efd0e9d48b6dba1b16cee61e
+      internalID: 678084959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_95
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 200
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158ce2c6d070ff49b66a90e5d6a05f6
+      internalID: 1188887861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52100cc4d8a2abc45af89642a3ecd0f6
+      internalID: -477235649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_97
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cfce1a8fefd9441a180b097e4e0eb4
+      internalID: -2004685985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_98
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c434a3ff10e3444a3b061fd00b7db0
+      internalID: 2032230370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_99
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 150
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad66c787d8722b42b18ce8bbb64b361
+      internalID: 463366018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242078c806af7e418f1a7b7bda90bcf
+      internalID: -1954192737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_101
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168bf0513dcab7e4994593885170600a
+      internalID: -281402714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_102
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403d8c2530fe1245b5b93b0cf0830f0
+      internalID: -274642078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_103
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 100
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a4b9670431c04e855fee72645635a
+      internalID: -2026255425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b63542d94334f4185b1ee353dd3d94
+      internalID: 546376374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_105
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 50
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb00d50c08a1eb45aeba5e2a386bd7b
+      internalID: -236835345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_106
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 50
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad332cefb1466bd4d8c14bb6f276d311
+      internalID: 1599650615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_107
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 50
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b909633d6fb7149965a75fcbb6b28c
+      internalID: -1681513234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a852527fcbeba14bb6275361e8c787d
+      internalID: -1770991628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_109
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f5a48047f67c41b890f314ab7a0d9
+      internalID: 942477101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_110
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf79a7a939b2a674787a013a2e164a71
+      internalID: 337621149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyerBelt 1_111
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 0
+        width: 314
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75759091b338a949aeb7d5e004acb5b
+      internalID: 1755687478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ConveyerBelt 1_9: -1753608570
+      ConveyerBelt 1_58: -1904231346
+      ConveyerBelt 1_81: -427345514
+      ConveyerBelt 1_88: -40976386
+      ConveyerBelt 1_37: -1510688338
+      ConveyerBelt 1_23: 729752518
+      ConveyerBelt 1_102: -274642078
+      ConveyerBelt 1_83: 2108997643
+      ConveyerBelt 1_46: -507673765
+      ConveyerBelt 1_63: 1443525769
+      ConveyerBelt 1_78: -905409941
+      ConveyerBelt 1_62: -883157150
+      ConveyerBelt 1_104: 546376374
+      ConveyerBelt 1_65: -512693286
+      ConveyerBelt 1_111: 1755687478
+      ConveyerBelt 1_32: 1409604027
+      ConveyerBelt 1_82: -618078304
+      ConveyerBelt 1_51: 1073886871
+      ConveyerBelt 1_71: -822271415
+      ConveyerBelt 1_93: -196865131
+      ConveyerBelt 1_30: 1093375444
+      ConveyerBelt 1_45: -102233410
+      ConveyerBelt 1_38: 2031991606
+      ConveyerBelt 1_110: 337621149
+      ConveyerBelt 1_48: -322891865
+      ConveyerBelt 1_76: 380571377
+      ConveyerBelt 1_54: 1788396865
+      ConveyerBelt 1_16: -1771217211
+      ConveyerBelt 1_33: 131476427
+      ConveyerBelt 1_70: -143303823
+      ConveyerBelt 1_35: 359963514
+      ConveyerBelt 1_94: 678084959
+      ConveyerBelt 1_15: -910203450
+      ConveyerBelt 1_57: -1974646509
+      ConveyerBelt 1_84: 293091471
+      ConveyerBelt 1_69: -1956320214
+      ConveyerBelt 1_91: -1284111138
+      ConveyerBelt 1_49: -1331681404
+      ConveyerBelt 1_64: 1355553972
+      ConveyerBelt 1_77: -1222761413
+      ConveyerBelt 1_7: -2145409247
+      ConveyerBelt 1_29: 163453258
+      ConveyerBelt 1_53: -975639616
+      ConveyerBelt 1_79: 1418875522
+      ConveyerBelt 1_39: 1659334160
+      ConveyerBelt 1_8: -63034613
+      ConveyerBelt 1_106: 1599650615
+      ConveyerBelt 1_41: 932183594
+      ConveyerBelt 1_5: -1649576452
+      ConveyerBelt 1_87: -1597454728
+      ConveyerBelt 1_42: 1642456402
+      ConveyerBelt 1_68: -1112220525
+      ConveyerBelt 1_14: -319570810
+      ConveyerBelt 1_19: -2066270484
+      ConveyerBelt 1_56: -1768895143
+      ConveyerBelt 1_21: -88357540
+      ConveyerBelt 1_13: -747691064
+      ConveyerBelt 1_34: 1274783917
+      ConveyerBelt 1_74: -122259683
+      ConveyerBelt 1_47: -1822393903
+      ConveyerBelt 1_4: 1506843805
+      ConveyerBelt 1_99: 463366018
+      ConveyerBelt 1_10: 1597514576
+      ConveyerBelt 1_36: -1270596040
+      ConveyerBelt 1_2: -1739123181
+      ConveyerBelt 1_11: -1013570755
+      ConveyerBelt 1_22: 867310089
+      ConveyerBelt 1_75: 802972325
+      ConveyerBelt 1_55: -702018407
+      ConveyerBelt 1_59: -47388954
+      ConveyerBelt 1_98: 2032230370
+      ConveyerBelt 1_67: -893527992
+      ConveyerBelt 1_6: -201734444
+      ConveyerBelt 1_26: 294888769
+      ConveyerBelt 1_85: 1624686406
+      ConveyerBelt 1_18: -1147240575
+      ConveyerBelt 1_61: -1230427820
+      ConveyerBelt 1_80: -59067360
+      ConveyerBelt 1_31: -181633670
+      ConveyerBelt 1_100: -1954192737
+      ConveyerBelt 1_107: -1681513234
+      ConveyerBelt 1_28: -2147124593
+      ConveyerBelt 1_105: -236835345
+      ConveyerBelt 1_3: -2051573804
+      ConveyerBelt 1_27: -1472694854
+      ConveyerBelt 1_12: -620525573
+      ConveyerBelt 1_1: 360802981
+      ConveyerBelt 1_44: -1588273915
+      ConveyerBelt 1_97: -2004685985
+      ConveyerBelt 1_17: 1730788938
+      ConveyerBelt 1_60: -1887587999
+      ConveyerBelt 1_95: 1188887861
+      ConveyerBelt 1_89: -1383032760
+      ConveyerBelt 1_90: -1680877087
+      ConveyerBelt 1_101: -281402714
+      ConveyerBelt 1_0: -361760418
+      ConveyerBelt 1_108: -1770991628
+      ConveyerBelt 1_86: 2055272332
+      ConveyerBelt 1_50: -1643570543
+      ConveyerBelt 1_25: -493565339
+      ConveyerBelt 1_20: -1631357094
+      ConveyerBelt 1_103: -2026255425
+      ConveyerBelt 1_24: 102482963
+      ConveyerBelt 1_66: -1804931748
+      ConveyerBelt 1_92: 1569195668
+      ConveyerBelt 1_43: -1153817855
+      ConveyerBelt 1_73: 111257088
+      ConveyerBelt 1_40: 2101597770
+      ConveyerBelt 1_72: 139717796
+      ConveyerBelt 1_109: 942477101
+      ConveyerBelt 1_96: -477235649
+      ConveyerBelt 1_52: 202345023
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

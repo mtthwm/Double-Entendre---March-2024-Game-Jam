@@ -1,0 +1,1942 @@
+fileFormatVersion: 2
+guid: 746bd9512fc47c341a3ae3f4e89eb272
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SalmonBoard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362c6c9a4e3efd4a9016bd03ee370fc
+      internalID: 623598597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2256
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24590fb028dd993488b1ee72623b83dc
+      internalID: 1539682198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2256
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95680650575497449bd3a667a3eddbf9
+      internalID: 560313039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_3
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2256
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282922969f00e447b5f3b532b55e9b5
+      internalID: -2100825017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_4
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2256
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba471df069ac046990c7ff476fbbfd
+      internalID: -44642584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2115
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761595345b15d7142a4f3be6b4218c30
+      internalID: -507571377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2115
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65edb8e9851ac804bb6405f5e6dd53ab
+      internalID: -1080321633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_7
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2115
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fb471b548ea9419a2449504c24f55
+      internalID: -1136712940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_8
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2115
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9de9a0e1b8f4543a2ebab0786cf5c4
+      internalID: -791054306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_9
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2115
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a79f9296ee7c8a48ab7059cc9e9d17b
+      internalID: -956224547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1974
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d120828d8f0af449144d234cf49147
+      internalID: 137279959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1974
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8fa0099d25fd44987e3a24f33c4595
+      internalID: 1275649435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_12
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1974
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f531be989bc840acd922d47d45b52
+      internalID: 1487137653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_13
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1974
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e7a67899238140b8151fe5ca0d31d
+      internalID: 881076054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_14
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1974
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393f0c8ef8c84347997ad0c94922516
+      internalID: -509238893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1833
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6451e72f70aea944b162a3c412a8b66
+      internalID: 281164332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1833
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fc3a9f85a2cd441ab83588e709b64d
+      internalID: -1135475139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_17
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1833
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6690246d230bf144db2c1ebd60af6306
+      internalID: -645607909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_18
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1833
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c940a80bd7152408c615d79594e2ab
+      internalID: -1389022960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_19
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1833
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07dcbce16021345bc73574058ecce7
+      internalID: -708522796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f29803348ede3a40b01896f3ab95fc5
+      internalID: -765774163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1692
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b410032648e049ab8f85daa593054
+      internalID: 1249031294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1692
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ea0c2afec9a347b16466f5b0c9fa3
+      internalID: 707603774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_23
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1692
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d6a6505bfcef4cb7279675440bfa8
+      internalID: 1501240120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_24
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1692
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de836be0a91a55a4f96dd6cf3d5e5d65
+      internalID: 206144795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addd23de2ad56b74eb7bc37f7de1cf3d
+      internalID: 204661537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1551
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92474e286ca43324583289cf1927dbb2
+      internalID: -489408229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1551
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0eb031b9ed3d4fb426de1120864b2
+      internalID: 462669924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_28
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1551
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ecd0245ae51ea408b42a06122a1f98
+      internalID: 375046322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_29
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1551
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88936116fba468439ca9abd528029a0
+      internalID: 352584238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c003d54c7f0749b8d166eaef79819
+      internalID: 874697987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1410
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edb5e3d26c5bc45b9c2b4ee499e80d
+      internalID: -1375996603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_32
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1410
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b355d5ec943d434e95705cfcad68733
+      internalID: 138725538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_33
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1410
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e7e664074e774ba1be3b7d4bfb2f9
+      internalID: -922928894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_34
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1410
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa339ea79e2f7940be18545a0512fa3
+      internalID: 1846196484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1269
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2eb7275f0ec0542b6ad720f26f052c
+      internalID: -1942197402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_36
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1269
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94803321911c5438fa623b7447936b
+      internalID: 1167478149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_37
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1269
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2264e047cfd61034fa0bed34f1eee1f9
+      internalID: -1179400142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_38
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1269
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de587850ea50844ebf54fafb2cd6fc0
+      internalID: 1138285840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_39
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1269
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4811e2f806da5ed42bf90bd77a239d75
+      internalID: -27390119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b194534f802404f9caeca1b3b1a395
+      internalID: 54463043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1128
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc37158add54af468f11ccf46764db1
+      internalID: -1055862751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1128
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e94c192777a549a340572f2757e31
+      internalID: 1562770406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_43
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1128
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ad0b2cd9c1804492c0f4b7d0440a1
+      internalID: 893097867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_44
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1128
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814dd2d2a7be36943a842f393970bf47
+      internalID: 605138358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e7fe016cdc1d4cbd4c2c817791046
+      internalID: -1572279954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 987
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab14d010cae8df74c92bf32d65fa84ca
+      internalID: -429329340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_47
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 987
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32051929cfa79df4d82afd93e4935e4e
+      internalID: -1920054652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_48
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 987
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725e836675961a4ab0f5d8f849f2800
+      internalID: -470243465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_49
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 987
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018282b1e45e7cc46bbcd0c96c397dfb
+      internalID: -1083721162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaaeeb145b934c4b8fb5796fb173f46
+      internalID: 478748799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_51
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 846
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f0740f0a07c924a84dd9894f202626
+      internalID: 1789213277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_52
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 846
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e0eb0646a6e444a2ee77649b6f35c
+      internalID: -1981351209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_53
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 846
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bca39255905da45a80af914ee24d3e
+      internalID: 599752639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_54
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 846
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e165457e7c57b49bb54c1d1d0a5e40
+      internalID: 418072980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3d69bf2ffdbdd478853dd607e99e87
+      internalID: 1553180856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_56
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 705
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b065098004710c94e86da76a763f362d
+      internalID: 1527085902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_57
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 705
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee12abffa3e754886244c5a36d4f6b
+      internalID: 812088749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_58
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 705
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a083871743b4dc41b16519e576c09eb
+      internalID: 814819451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_59
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 705
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21db1d3d75fbb0047ace772508fbdad4
+      internalID: -1273618138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca271a5efcb6554a9c91bfced1bd208
+      internalID: -1361714774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_61
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 564
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcdd0131e9e11c4aab56ef4333c9787
+      internalID: -93269635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_62
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 564
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675dc6db909dd041b17104e1009beff
+      internalID: -591854845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_63
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 564
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c2e1e668860a4ea34fa893cf86012
+      internalID: -746886039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_64
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 564
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b00f288b3bc7c4898c1d14dde70014
+      internalID: 319040692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820325c78408c424d94bc40a159f50e0
+      internalID: -221673752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_66
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 423
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be532ebb3f5b345882bba5fe58d71e
+      internalID: 1764246972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_67
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 423
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5936bddde9923c419299bbce1c39bd4
+      internalID: 1759336248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_68
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 423
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f99a948e4940428a9af52aa6a5916
+      internalID: 1824120638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_69
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 423
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e900e9c7f82f974aa6c187cfd039d1c
+      internalID: -1756781937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed3a55800573fd41aeed1f877d46b3c
+      internalID: 893094422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 282
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d1bb2ff92212d46b68a36ac587f98b
+      internalID: -2093685250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_72
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 282
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a81b3ba480ce54d801f7593e10dc85
+      internalID: -164534115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_73
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 282
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76ce1187849f946b8a20dfb7bcd00b
+      internalID: -1551931014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_74
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 282
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee931f531156d34e87e636ee78ae810
+      internalID: 1501710410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6daa826246a1b4786a4bdaa67cdf09
+      internalID: 923221872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_76
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 141
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb33ab44d943640884730f80a42732
+      internalID: 1893737402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_77
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 141
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40618a20835554f9b7be63a4234ee8
+      internalID: 2027017807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_78
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 141
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3ce1f788bf024a9b980eef12a6aa9
+      internalID: 986044032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_79
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 141
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee49d4ee13ef845aaea1d312d9d472
+      internalID: -795540592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b2eefb90ac0c419a4c1155548e08d
+      internalID: 1402085792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalmonBoard_81
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 530
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95bbe92a138a0649bd86eed7bcee66c
+      internalID: -1621279770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SalmonBoard_65: -221673752
+      SalmonBoard_33: -922928894
+      SalmonBoard_24: 206144795
+      SalmonBoard_49: -1083721162
+      SalmonBoard_53: 599752639
+      SalmonBoard_34: 1846196484
+      SalmonBoard_64: 319040692
+      SalmonBoard_11: 1275649435
+      SalmonBoard_3: -2100825017
+      SalmonBoard_32: 138725538
+      SalmonBoard_28: 375046322
+      SalmonBoard_7: -1136712940
+      SalmonBoard_50: 478748799
+      SalmonBoard_57: 812088749
+      SalmonBoard_15: 281164332
+      SalmonBoard_16: -1135475139
+      SalmonBoard_29: 352584238
+      SalmonBoard_62: -591854845
+      SalmonBoard_68: 1824120638
+      SalmonBoard_5: -507571377
+      SalmonBoard_71: -2093685250
+      SalmonBoard_46: -429329340
+      SalmonBoard_43: 893097867
+      SalmonBoard_51: 1789213277
+      SalmonBoard_60: -1361714774
+      SalmonBoard_17: -645607909
+      SalmonBoard_77: 2027017807
+      SalmonBoard_61: -93269635
+      SalmonBoard_63: -746886039
+      SalmonBoard_25: 204661537
+      SalmonBoard_67: 1759336248
+      SalmonBoard_38: 1138285840
+      SalmonBoard_54: 418072980
+      SalmonBoard_13: 881076054
+      SalmonBoard_10: 137279959
+      SalmonBoard_20: -765774163
+      SalmonBoard_36: 1167478149
+      SalmonBoard_4: -44642584
+      SalmonBoard_47: -1920054652
+      SalmonBoard_1: 1539682198
+      SalmonBoard_56: 1527085902
+      SalmonBoard_59: -1273618138
+      SalmonBoard_39: -27390119
+      SalmonBoard_0: 623598597
+      SalmonBoard_72: -164534115
+      SalmonBoard_37: -1179400142
+      SalmonBoard_48: -470243465
+      SalmonBoard_41: -1055862751
+      SalmonBoard_2: 560313039
+      SalmonBoard_75: 923221872
+      SalmonBoard_22: 707603774
+      SalmonBoard_12: 1487137653
+      SalmonBoard_9: -956224547
+      SalmonBoard_40: 54463043
+      SalmonBoard_23: 1501240120
+      SalmonBoard_31: -1375996603
+      SalmonBoard_52: -1981351209
+      SalmonBoard_26: -489408229
+      SalmonBoard_82: 1297563183
+      SalmonBoard_35: -1942197402
+      SalmonBoard_42: 1562770406
+      SalmonBoard_73: -1551931014
+      SalmonBoard_69: -1756781937
+      SalmonBoard_14: -509238893
+      SalmonBoard_66: 1764246972
+      SalmonBoard_58: 814819451
+      SalmonBoard_76: 1893737402
+      SalmonBoard_6: -1080321633
+      SalmonBoard_21: 1249031294
+      SalmonBoard_18: -1389022960
+      SalmonBoard_8: -791054306
+      SalmonBoard_44: 605138358
+      SalmonBoard_19: -708522796
+      SalmonBoard_55: 1553180856
+      SalmonBoard_74: 1501710410
+      SalmonBoard_30: 874697987
+      SalmonBoard_27: 462669924
+      SalmonBoard_83: 492266602
+      SalmonBoard_45: -1572279954
+      SalmonBoard_79: -795540592
+      SalmonBoard_78: 986044032
+      SalmonBoard_81: -1621279770
+      SalmonBoard_80: 1402085792
+      SalmonBoard_84: 231464131
+      SalmonBoard_70: 893094422
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,7 +5,18 @@ tags:
 Are you sure this is the right order for clues? 
 
 -> I'm positive
-    <<checkGuess Confirmation>>
+    <<if checkGuess() == true>>
+        That makes sense! So then the culprit is
+        -> Bea Goode
+            No... that can't be it...
+        -> The fridge
+            That must be it!
+            <<loadScene Level1VictoryScreen>>
+        -> {$neighbor}
+            No... that can't be it...
+    <<else>>
+        No... that can't be it...
+    <<endif>>
 -> Let me think...
 
 ===
