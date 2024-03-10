@@ -1,0 +1,33 @@
+title: Letter
+tags:
+---
+<<if $talkedToBea is false>>
+Tabatha: I should talk to Ms. Goode first.
+<<stop>>
+<<endif>>
+Tabatha: A letter? From...
+Tabatha: <i>Reads the envelope.</i>
+Tabatha: The upstairs neighbor Daisy Milton, it seems.
+<<jump ReadLetter>>
+===
+
+title: ReadLetter
+---
+Tabatha: Should I read it?
+    -> Don't see why not. Let's see...
+        Tabatha: <i>Takes out the letter</i>
+		Daisy: Hi, dear neighbor,
+		Daisy: I'll be out of town for a few days, and I won't be back until the 16th.
+		Daisy: Please leave me a message if anything comes up!
+		Daisy: Your neighbor, Daisy Milton. Mar 10.
+		Tabatha: Today is the... 14th, I think.
+        Tabatha: And... What's this?
+		Daisy: P.S. I still haven't found my marbles, please let me know if you see them!
+		Tabatha: Interesting...
+    -> No
+        Tabatha: But it seems like an important clue...
+        <<jump ReadLetter>>
+<<addItem Letter level_1_letter_clue>>
+<<selfDestruct Letter>>
+<<stop>>
+===

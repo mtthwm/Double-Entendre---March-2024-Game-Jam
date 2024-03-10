@@ -12,10 +12,11 @@ Are you sure this is the right order for clues?
         -> The fridge
             That must be it!
             <<loadScene Level1VictoryScreen>>
-        -> {$neighbor}
+        -> Daisy Milton
             No... that can't be it...
     <<else>>
         No... that can't be it...
+        <<startGuess>>
     <<endif>>
 -> Let me think...
 

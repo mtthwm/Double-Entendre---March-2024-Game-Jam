@@ -1,0 +1,41 @@
+title: Milk
+tags:
+---
+<<if $talkedToBea is false>>
+Tabatha: I should talk to Ms. Goode first.
+<<stop>>
+<<endif>>
+Tabatha: An empty glass, huh? Let's see...
+Tabatha: <i>Sniff, sniff.</i>
+Tabaha: Meeeeow.
+Tabatha: Milk.
+<<jump DrinkMilk>>
+===
+
+title: DrinkMilk
+---
+    -> Try to drink some.
+        Tabatha: <i>Shakes head.</i>
+        Tabatha: Compose yourself, detective! There's a case to be solved!
+        Tabatha: Besides, it's been out overnight.
+        <<jump DrinkMilk>>
+    -> I wonder if there's any left in the fridge...
+        Tabatha: <i>Shakes head.</i>
+        Tabatha: I'm getting carried away.
+        <<jump DrinkMilk>>
+    -> Examine the milk carton.
+        Tabatha: Hmm
+        <<jump ResumeMilk>>
+===
+
+title: ResumeMilk
+---
+Tabatha: Why is a used glass on the floor?
+Tabatha: And why is the milk container out on the table instead of being in the fridge?
+Tabatha: It wouldn't be there unless...
+Tabatha: Someone put it there.
+Tabatha: I wonder who did that...
+<<addItem Milk level_1_milk_clue>>
+<<selfDestruct Milk>>
+<<stop>>
+===

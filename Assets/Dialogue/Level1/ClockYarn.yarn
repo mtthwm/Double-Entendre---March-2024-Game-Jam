@@ -1,0 +1,17 @@
+title: Clock
+tags:
+---
+<<if $talkedToBea is false>>
+Tabatha: I should talk to Ms. Goode first.
+<<stop>>
+<<endif>>
+Tabatha: It's 8:27 AM, according to the clock.
+Tabatha: <i>Looks outside the window.</i>
+Tabatha: That's probably right...
+Tabatha: Hmm...
+Tabatha: It kept running through the night, which means that other things must've as well.
+Tabatha: Doesn't say much, but at least it rules out the possibility of power running out last night.
+<<addItem Clock level_1_clock_clue>>
+<<selfDestruct Clock>>
+<<stop>>
+===

@@ -1,0 +1,43 @@
+title: Hourglass
+tags:
+---
+<<if $talkedToBea is false>>
+Tabatha: I should talk to Ms. Goode first.
+<<stop>>
+<<endif>>
+Tabatha: An hourglass...
+Tabatha: <i>Picks it up</i>
+Tabatha: Seems ordinary enough.
+Tabatha: <i>Shakes it</i>
+Tabatha: What... Am I hallucinating or --
+	-> Shake it again
+		<<jump Shake>>
+	-> Stare at it
+		<<jump Stare>>
+===
+
+title: Stare
+---
+Tabatha: Hmm... It looks awfully...
+Tabatha: Still.
+Tabatha: <i>Turns it upside down.</i>
+Tabatha: The sand's not budging, almost like it's... Frozen.
+Tabatha: I wonder how.
+<<jump getglass>>
+===
+
+title: Shake
+---
+Tabatha: <i>Shakes it like there's no tomorrow.</i>
+Tabatha: The sand won't budge!
+Tabatha: And my hands are getting cold.
+Tabatha: Is this frozen?
+<<jump getglass>>
+===
+
+title: getglass
+---
+<<addItem HourGlass level_1_hourglass_clue>>
+<<selfDestruct HourGlass>>
+<<stop>>
+===

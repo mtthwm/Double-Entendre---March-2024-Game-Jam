@@ -19,7 +19,7 @@ public class YarnBridge : MonoBehaviour
     }
 
     [YarnCommand("startGuess")]
-    public void StartGuess ()
+    public static void StartGuess ()
     {
         LevelManager.Instance.SwitchView();
     }

@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b4b63820b9ae4a4ca0f386fd8b1d7a4, type: 3}
   m_Name: level_1_clock_clue
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: a81c5dae61d5eae4db70b091a9faaa3b, type: 3}

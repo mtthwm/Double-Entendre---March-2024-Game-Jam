@@ -1,7 +1,18 @@
-title: Start
+title: BeaGoode
 ---
+<<declare $talkedToBea = false>>
+
+<<if $talkedToBea is true>>
+Bea Goode: How's the investigation going?
+-> Tabatha: Still working on it.
+	<<jump BeaAsking>>
+-> Tabatha: I've got it!
+	<<startGuess>>
+	<<stop>>
+<<endif>>
+
 Bea Goode: Detective Tabathaaaa -- achu!
-Tabatha: Morning, Mr. Goode... Not feeling too well?
+Tabatha: Morning, Ms. Goode... Not feeling too well?
 Bea Goode: I'm okay --
 Bea Goode: <i>Sneezes again.</i>
 Tabatha: ......
@@ -17,7 +28,7 @@ Tabatha: Oh... I see...
 Tabatha: Please, continue.
 Bea Goode: Of course... Except there's really not much to say...
 Bea Goode: It's there last night, and when I woke up, it just..
-Dea Goode: Disappeared!
+Bea Goode: Disappeared!
 Tabatha: Disappeared?
 Bea Goode: <i>Nods fervently.</i>
 Tabatha: Just to be clear here, there's not any innuendo or entendre involved?
@@ -25,33 +36,49 @@ Bea Goode: No, of course not!
 Tabatha: Huh.
 Tabatha: This is... Curious, indeed.
 Bea Goode: Please, detective! You've got to help me!
-Tabatha: I'll... See what I can do, Mr. Goode.
+Tabatha: I'll... See what I can do, Ms. Goode.
+<<jump BeaAsking>>
+===
+
+title: BeaAsking
+---
 Tabatha: What more can you tell me?
 Bea Goode: What do you need to know?
-		-> Location of the fridge
-			 Bea Goode: It was right there.
-			 Bea Goode: <i>Pointing over to a spot. The mark of the fridge's presence very... Present.</i>
-			 Tabatha: I see..
-			 Bea Goode: <i>Sighs.</i>
-			 Bea Goode: If only I could turn back time...
-			 Tabatha: No need, Mr. Goode.
-			 Tabatha: That's why I'm here.
-		-> Permission to sniff around
-			 Bea Goode: I understand, detective. Just be respectful, please.
-			 Tabatha: Of course.
-		-> Possibility of breaking and entering
-			 Bea Goode: Hhm... I do remember that my upstairs neighbor came knocking at my door some time ago.
-			 Bea Goode: Talking about having lost his...
-			 Bea Goode: Something... I can't remember.
-			 Bea Goode: But he seemed very mad about it...
-			 Bea Goode: You think it might be him, Detective?
-			 Tabatha: We'll see.
-		-> Seeing any suspicious activities
-			 Bea Goode: I don't know, detective...
-			 Bea Goode: I was sleeping at the time...
-			 Tabatha: Have you any usual night activities?
-			 Bea Goode: Sometimes, I like myself some late night snacks.
-			 Bea Goode: Man... I wish I grabbed some last night...
-			 Bea Goode: Who knows when I'm gonna get some next time...
+<<jump BeaChoices>>
+===
 
+title: BeaChoices
+---
+    -> Location of the fridge
+        Bea Goode: It was right there.
+	    Bea Goode: <i>Pointing over to a spot. The mark of the fridge's presence very... Present.</i>
+		Tabatha: I see..
+		Bea Goode: <i>Sighs.</i>
+		Bea Goode: If only I could turn back time...
+		Tabatha: No need, Mr. Goode.
+		Tabatha: That's why I'm here.
+        <<jump BeaAsking>>
+    -> Permission to sniff around
+        Bea Goode: I understand, detective. Just be respectful, please.
+		Tabatha: Of course.
+        <<jump BeaAsking>>
+    -> Seeing any suspicious activities
+        Bea Goode: I don't know, detective...
+		Bea Goode: I was sleeping at the time...
+		Tabatha: Have you any usual night activities?
+		Bea Goode: Sometimes, I like myself some late night snacks.
+		Bea Goode: Man... I wish I grabbed some last night...
+		Bea Goode: Who knows when I'm gonna get some next time...
+        <<jump BeaAsking>>
+    -> Possibility of breaking and entering
+        Bea Goode: Hhm... I do remember that my upstairs neighbor came knocking at my door some time ago.
+		Bea Goode: Talking about having lost her...
+		Bea Goode: Something... I can't remember.
+		Bea Goode: But she seemed very urgent about it...
+		Bea Goode: You think it might be her, Detective?
+		Tabatha: We'll see.
+        <<jump BeaAsking>>
+    -> That's all
+        Bea Goode: Please find my fridge, detective.
+		<<set $talkedToBea = true>>
 ===
