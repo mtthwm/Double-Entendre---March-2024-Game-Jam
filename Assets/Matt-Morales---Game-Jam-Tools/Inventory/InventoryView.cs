@@ -7,6 +7,9 @@ using UnityEngine.UI;
 
 public class InventoryView : MonoBehaviour
 {
+    public delegate void InventoryShowEvent();
+    public event InventoryShowEvent OnInventoryShow;
+
     [Serializable]
     private class InventorySlot
     {
@@ -50,6 +53,7 @@ public class InventoryView : MonoBehaviour
 
     private void RenderInventory()
     {
+        OnInventoryShow?.Invoke();
         string[] items = sourceInventoryManager.GetItems();
         for (int i = 0; i < slots.Length; i++) {
 
